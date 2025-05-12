@@ -1,10 +1,7 @@
-🐾 Only Paws - Pet Adoption & Care Website
+🐾 OnlyPaws - Pet Adoption & Care Website
 
-Welcome to Only Paws a pet adoption and veterinary care website where every paw has a story!
-
-This platform is built to help connect loving people with pets who need homes, and to provide top-notch pet care services — from grooming and boarding to emergency treatment.
-
----
+Welcome to OnlyPaws a pet adoption and veterinary care website where every paw has a story!
+An all-in-one pet care platform for booking veterinary appointments, buying pet supplies, adopting pets, and accessing basic support—all in one place.
 
 🌟 Features
 
@@ -16,9 +13,7 @@ This platform is built to help connect loving people with pets who need homes, a
 - Location Map Embed - Displays the center’s physical location with Google Maps.  
 - Responsive & Stylish UI - Clean layout, responsive design, and elegant styling with CSS.  
 
----
-
-📁 **Project Structure**
+📁 Project Structure
 
 - `index.html` – Main landing page  
 - `adopt.html` – Pet adoption showcase page  
@@ -26,9 +21,7 @@ This platform is built to help connect loving people with pets who need homes, a
 - `assets/` – Images for pets, icons, UI  
 - `README.txt` – You're here!  
 
----
-
-📋 **Technologies Used**
+📋 Technologies Used
 
 - HTML5 – Structure  
 - CSS3 – Styling and responsiveness  
@@ -36,10 +29,5 @@ This platform is built to help connect loving people with pets who need homes, a
 - Google Forms – For adoption inquiries  
 - Google Maps Embed API – Location visibility  
 - Remixicon & Swiper.js – Icons and testimonials slider  
+- Hosted into AWS s3 bucket (https://onlypaws-myfirstaws.s3.ap-south-1.amazonaws.com/index.html)
 
----
-
-🤝 **Acknowledgements**
-
-- Inspired by love for pets and the need for a simple adoption platform.  
-- Designed with ❤️ at Sona College of Technology.
